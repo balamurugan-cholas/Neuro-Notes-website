@@ -35,7 +35,7 @@ export function Hero() {
 
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4 animate-fade-in-up" style={{animationDelay: '0.2s'}}>
-          <a href="#Download software" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1dvSYlJB_wnDnfMhTzQPgOR_8TQIVInI6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="gap-2 min-w-[200px] transition-transform duration-300">
             <Download className="w-5 h-5" />
             Download for Windows
