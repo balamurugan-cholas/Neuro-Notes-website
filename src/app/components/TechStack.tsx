@@ -75,7 +75,7 @@ export function TechStack() {
         <div className="mt-8 p-6 bg-card border border-border rounded-xl">
           <div className="grid md:grid-cols-3 gap-6 text-center">
             <div>
-              <p className="text-2xl font-bold text-primary">~50 - 100MB</p>
+              <p className="text-2xl font-bold text-primary">~200 - 250MB</p>
               <p className="text-sm text-muted-foreground mt-1">App Size (excluding model)</p>
             </div>
             <div>
